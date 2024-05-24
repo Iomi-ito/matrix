@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "matrix\matrix.csproj", "{7F361D67-5AE7-426B-8136-FF3D83E5EDE7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "matrix-installer", "matrix-installer\matrix-installer.vdproj", "{16956DCB-16E9-480D-9669-8B746E906C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F361D67-5AE7-426B-8136-FF3D83E5EDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F361D67-5AE7-426B-8136-FF3D83E5EDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F361D67-5AE7-426B-8136-FF3D83E5EDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F361D67-5AE7-426B-8136-FF3D83E5EDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16956DCB-16E9-480D-9669-8B746E906C7A}.Debug|Any CPU.ActiveCfg = Debug
+		{16956DCB-16E9-480D-9669-8B746E906C7A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6213EC-8D6D-4D42-B782-95C10C823B05}
+	EndGlobalSection
+EndGlobal
